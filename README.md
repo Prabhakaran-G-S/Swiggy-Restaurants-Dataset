@@ -117,6 +117,11 @@ This SQL project analyses the popular Swiggy dataset to uncover key business ins
 - Window functions
 - `CASE` statements
 
+## Technical Details
+- **Database:** PostgreSQL
+- **Analysis Tools:** PostgreSQL, DBeaver, PGadmin
+- **Visualization:** Claude AI
+
 ### 🔗Dataset Source: 
 - kaggle.com/datasets/ashishjangra27/swiggy-restaurants-dataset
 
