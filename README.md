@@ -73,7 +73,7 @@ This SQL project analyses the popular Swiggy dataset to uncover key business ins
 
 ### 5. Highest rated cuisines.
 
-🖥️ Query : [Highest rated cuisines](05_highest_average_rating.sql)
+🖥️ Query : [Highest rated cuisines](05_highest_rated_cuisine.sql)
 
 **📈 Visualization:** 
 
