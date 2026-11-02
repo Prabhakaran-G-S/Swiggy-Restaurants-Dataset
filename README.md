@@ -99,7 +99,7 @@ This SQL project analyses the popular Swiggy dataset to uncover key business ins
 
 🖥️ Query :[Value for money](07_value_for_money.sql)
 
-- No metro appears. Every city is a tier2 or tier3 city with an average cost of about ₹172 to ₹257.
+- No metro appears. Every city is a tier 2 or tier 3 city with an average cost of about ₹172 to ₹257.
 - Gondal is the standout at 4.06 rating and ₹247. It is also the 4th highest rated city overall, so it is both great and cheap.
 - 15 of the 31 cities are in South India (9 in Tamil Nadu, 4 in Kerala, 2 in Karnataka). Trichy, Madurai and Erode are at 3.99 to 4.00 for ₹230 to ₹251.
 - Recommendation: tier2 South Indian and Gujarat cities offer metro level quality at about 30 to 40% lower cost, so they are good expansion or promotion targets.
