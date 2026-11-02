@@ -25,7 +25,7 @@ This SQL project analyses the popular Swiggy dataset to uncover key business ins
  
 ## 📊Business Questions Answered
 ### 1. Restaurants per city. 
-🖥️ Query :
+🖥️ Query : [Restaurants per city](01_restaurants_per_city.sql)
 **📈 Visualization:**
 
 <img src="Images/01_restaurants_per_city.png" width=50%>
@@ -35,7 +35,7 @@ This SQL project analyses the popular Swiggy dataset to uncover key business ins
 - Mumbai is only 7th, which is surprising for India's largest food market.
 
 ### 2. Popular cuisines.
-🖥️ Query :
+🖥️ Query : [Popular cuisines across India](02_popular_cuisines_across_india.sql)
 **📈 Visualization:** 
 
 <img src="Images/02_popular_cuisines_across_india.png" width=50%>
@@ -44,7 +44,7 @@ This SQL project analyses the popular Swiggy dataset to uncover key business ins
 - Desserts, Beverages, Snacks and Pizzas all sit in the top 10, which shows how much of Swiggy is snacking and sweets, not just meals.
   
 ### 3. Chains with the most branches.
-🖥️ Query :
+🖥️ Query : [Restaurant chains with most branches](03_restaurant_chains_with_most_branches.sql)
 **📈 Visualization:** 
 
 <img src="Images/03_restaurant_chains_with_most_branches.png" width=50%>
@@ -54,7 +54,7 @@ This SQL project analyses the popular Swiggy dataset to uncover key business ins
 - Nine of the top 25 are ice cream or dessert brands (Kwality Walls, Baskin Robbins, NIC, Grameen Kulfi, Belgian Waffle and others).
 
 ### 4. Highest rated cities. 
-🖥️ Query :
+🖥️ Query : [City with highest average rating](04_city_with_highest_average_rating.sql)
 **📈 Visualization:** 
 <img src="Images/04_city_with_highest_average_rating.png" width=50%>
 
@@ -63,7 +63,7 @@ This SQL project analyses the popular Swiggy dataset to uncover key business ins
 - Size doesn't hurt ratings. Mumbai, Kolkata, Chennai and Bangalore all score 4.01 or above despite thousands of restaurants.
 
 ### 5. Highest rated cuisines.
-🖥️ Query :
+🖥️ Query : [Highest rated cuisines](05_highest_average_rating.sql)
 **📈 Visualization:** 
 
 <img src="Images/05_cuisine_with_highest_rating.png" width=50%>
@@ -73,7 +73,7 @@ This SQL project analyses the popular Swiggy dataset to uncover key business ins
 - Regional Indian cuisines such as Gujarati (3.98), Chettinad (3.95) and Bengali (3.94) beat the generic "Indian" tag (3.80).
 
 ### 6. Rating above 4.5 with more than 1,000 ratings.
-🖥️ Query :
+🖥️ Query : [Restaurants with rating above 4.5 with more than 1,000 ratings](06_restaurants_with_high_rating_and_count.sql)
 **📈 Visualization:** 
 
 <img src="Images/06_more_than_1000ratings_&_4.5_rating.png" width=50%>
@@ -83,7 +83,7 @@ This SQL project analyses the popular Swiggy dataset to uncover key business ins
 - Chain brands that appear in both this list and the chain list (Kwality Walls, NIC, Behrouz) show that scale and quality can coexist.
 
 ### 7. Value for money.
-🖥️ Query :
+🖥️ Query :[Value for money](07_value_for_money.sql)
 
 - No metro appears. Every city is a tier2 or tier3 city with an average cost of about ₹172 to ₹257.
 - Gondal is the standout at 4.06 rating and ₹247. It is also the 4th highest rated city overall, so it is both great and cheap.
